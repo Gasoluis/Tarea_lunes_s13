@@ -6,7 +6,7 @@
       
      es la peticion de datos solicitada desde la parte del cliente hacia el servidor.
 
-## responsive
+## response
 
     es la respuesta del servidor antes los de datos solicitado por el cliente.
 
@@ -44,7 +44,7 @@
 
 ## Body
 
-    Permiten al cliente y al servidor enviar informacion adicional junto a una request o responsive.
+    Permiten al cliente y al servidor enviar informacion adicional junto a un requerimiento y respuesta.
 
 ## Cors
 
